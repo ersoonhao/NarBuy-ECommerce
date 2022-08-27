@@ -1,0 +1,292 @@
+{
+    "productCategory": [
+        {
+            "parentCategory": null,
+            "productCategory": "Clothes",
+            "productCategoryImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/categories/category-shirt.jpg"
+        },{
+            "parentCategory": "Clothes",
+            "productCategory": "Shirt"
+        },{
+            "parentCategory": "Clothes",
+            "productCategory": "Shorts"
+        },{
+            "parentCategory": null,
+            "productCategory": "Shoes",
+            "productCategoryImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/categories/category-shoes.jpg"
+        },{
+            "parentCategory": "Shoes",
+            "productCategory": "Running Shoes"
+        },{
+            "parentCategory": "Shoes",
+            "productCategory": "Casual Shoes"
+        },{
+            "parentCategory": null,
+            "productCategory": "Watch",
+            "productCategoryImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/categories/category-watch.jpg"
+        },{
+            "parentCategory": "Watch",
+            "productCategory": "Analog Watch"
+        },{
+            "parentCategory": "Watch",
+            "productCategory": "Smart Watch"
+        },{
+            "parentCategory": null,
+            "productCategory": "Electronics",
+            "productCategoryImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/categories/category-electronics.jpg"
+        },{
+            "parentCategory": "Electronics",
+            "productCategory": "Earphones"
+        },{
+            "parentCategory": "Electronics",
+            "productCategory": "Camera"
+        }
+    ],
+    "product": [
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-element-delamar.png",
+            "productCategory": "Shirt",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 51.99,
+            "name": "Element Delamar"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-only-sons.png",
+            "productCategory": "Shirt",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 69.05,
+            "name": "Only Sons Grey Sweatshirt"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-boss-navy.png",
+            "productCategory": "Shirt",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 70.05,
+            "name": "Boss Navy"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-berlin-green.png",
+            "productCategory": "Shirt",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 58.99,
+            "name": "Berlin Green"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-barbour-navy.png",
+            "productCategory": "Shirt",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 50.91,
+            "name": "Barbour Navy"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-oversized-grey-jersey.png",
+            "productCategory": "Shorts",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 29.99,
+            "name": "Grey Jersey Shorts"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-green-colourblock.png",
+            "productCategory": "Shorts",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 32.25,
+            "name": "Green Colourblock Shorts"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-red-champion.png",
+            "productCategory": "Shorts",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 51.25,
+            "name": "Red Champion Shorts"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-white-striped-shorts.png",
+            "productCategory": "Shorts",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 36.55,
+            "name": "White Striped Shorts"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-colored-adventure-shorts.png",
+            "productCategory": "Shorts",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 54.05,
+            "name": "Colored Adventure Shorts"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-hugo-black-dial.png",
+            "productCategory": "Analog Watch",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 201.05,
+            "name": "Hugo Black Dial"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-timex.jpg",
+            "productCategory": "Analog Watch",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 150.25,
+            "name": "Brown Timex"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-evvan-watch.jpg",
+            "productCategory": "Analog Watch",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 320.92,
+            "name": "Retro Evvan"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-red-apple-watch.jpg",
+            "productCategory": "Smart Watch",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 628.05,
+            "name": "Red Apple Watch"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-stainless-steel-apple-watch.jpg",
+            "productCategory": "Smart Watch",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 1079.05,
+            "name": "Stainless Steel Apple Watch"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-sport-apple-watch.jpg",
+            "productCategory": "Smart Watch",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 628.05,
+            "name": "Sport Apple Watch"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-nike-apple-watch.jpg",
+            "productCategory": "Smart Watch",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 628.05,
+            "name": "Nike Apple Watch"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-adidas-fwd.jpeg",
+            "productCategory": "Running Shoes",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 164.55,
+            "name": "Adidas FWD"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-nike-swish.jpg",
+            "productCategory": "Running Shoes",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 149.99,
+            "name": "Nike Swish"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-nike-air-max-95.jpg",
+            "productCategory": "Running Shoes",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 179.99,
+            "name": "Nike Air Max 99"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-ultraboost-sgp.png",
+            "productCategory": "Casual Shoes",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 182.99,
+            "name": "Ultraboost SGP"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-adidas-grand-court.png",
+            "productCategory": "Casual Shoes",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 130.95,
+            "name": "Adidas Grand Court"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-jordan.jpg",
+            "productCategory": "Casual Shoes",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 270.05,
+            "name": "Air Jordan"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-airpods.jpg",
+            "productCategory": "Earphones",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 250.95,
+            "name": "Airpods"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-airpods-pro.jpeg",
+            "productCategory": "Earphones",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 410.25,
+            "name": "Airpods Pro"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-airpods-pro-max.png",
+            "productCategory": "Earphones",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 649.95,
+            "name": "Airpods Pro Max"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-beats-studio-buds.jpeg",
+            "productCategory": "Earphones",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 230.05,
+            "name": "Beats Studio Buds"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-beats-solo-3.jpeg",
+            "productCategory": "Earphones",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 320.25,
+            "name": "Beats Solo 3"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-beats-studio-3.jpeg",
+            "productCategory": "Earphones",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 429.95,
+            "name": "Beats Studio 3"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-polaroid-i-type.jpg",
+            "productCategory": "Camera",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 270.05,
+            "name": "Polaroid I-Type"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-polaroid-go.jpeg",
+            "productCategory": "Camera",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 150.05,
+            "name": "Polaroid Go"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-polaroid-now.png",
+            "productCategory": "Camera",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 125.05,
+            "name": "Polaroid Now"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-gopro-hero9.jpeg",
+            "productCategory": "Camera",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 599.05,
+            "name": "GoPro HERO9"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-gopro-max.jpeg",
+            "productCategory": "Camera",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 799.05,
+            "name": "GoPro Max"
+        },
+        {
+            "productImageUrl": "https://is458-product-images.s3.ap-southeast-1.amazonaws.com/products/p-gopro-hero4-session.jpeg",
+            "productCategory": "Camera",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "price": 340.05,
+            "name": "GoPro Hero4 Session"
+        }
+    ]
+}
